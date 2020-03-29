@@ -1,0 +1,15 @@
+big.		1
+all		1
+some		4
+words.		1
+words		3
+meaning.		1
+many		1
+small.		1
+different!		1
+great		1
+none.		1
+are		4
+there		1
+have		2
+so		1
